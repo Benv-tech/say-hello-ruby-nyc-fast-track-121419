@@ -1,4 +1,4 @@
-def greeting(name)
+def say_hello(name)
   puts "hello #{name}. It's nice to meet you."
 end
-greeting(" Kent Beck")
+say_hello(" Kent Beck")
