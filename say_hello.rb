@@ -1,5 +1,4 @@
-def say_hello(name)
-  phrase = "Hello#{name} "
-  puts phrase
+def greeting(name)
+  puts "hello #{name}. It's nice to meet you."
 end
-say_hello (" Kent Beck")
+greeting
