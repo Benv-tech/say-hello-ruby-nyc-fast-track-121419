@@ -1,4 +1,4 @@
 def say_hello(name)
-  puts "hello #{name}. It's nice to meet you."
+  puts "Hello #{name}!"
 end
 say_hello("Kent Beck")
