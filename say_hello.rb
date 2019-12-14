@@ -1,5 +1,5 @@
 def say_hello(name)
-  phrase = "hello#{name} "
+  phrase = "Hello#{name} "
   puts phrase
 end
-say_hello (" kent beck")
+say_hello (" Kent Beck")
