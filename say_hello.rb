@@ -1,4 +1,4 @@
-def say_hello
+def say_hello(name)
   phrase = "hello#{name} "
   puts phrase
 end
