@@ -1,4 +1,5 @@
-# Build your say_hello method here
 def say_hello
-  puts "hello"
+  phrase = "hello world!"
+  puts phrase
 end
+puts phrase
