@@ -1,7 +1,5 @@
 def say_hello(name)
   puts "Hello #{name}!"
-  if name = false
-    puts "Ruby Programmer!"
-  end
+  return "Ruby Programmer"
 end
 say_hello("Kent Beck")
